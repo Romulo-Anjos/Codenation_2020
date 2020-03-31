@@ -1,2 +1,3 @@
 # Codenation_2020
-Repositório para o curso do Codenation 2020 de Data Science
+Repository for the Codenation 2020 Course
+This will be a Course for Data Science 
