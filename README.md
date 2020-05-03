@@ -1,3 +1,2 @@
 # Codenation_2020
-Repository for the Codenation 2020 Course
-This will be a Course for Data Science 
+Repositório dos desafios realizados no curso AceleraDev Data Science realizado em no primeiro semestre de 2020
